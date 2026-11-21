@@ -1,7 +1,3 @@
---[[
-Vortex Protection   
-  build 6D2E85A4  
-]]
 local _lII12=("")["\099\104\97\114"]
 local __O11d=(function() local _O01e=""
 for _,_c in ipairs({198,201,187,190,205,206,204,195,200,193}) do _O01e=_O01e.._lII12((_c-90+256)%256) end
